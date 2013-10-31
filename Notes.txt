@@ -1,0 +1,6 @@
+--GIT and GITHUB--
+
+Recomended bit-bucket,
+
+VCS traditional a branch is a full copy,
+In GIt, it is just the changes made.
